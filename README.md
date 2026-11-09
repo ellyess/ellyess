@@ -8,4 +8,3 @@
 - 🎓 PhD in Computational Science & Data Science, Imperial College London
 - 🌬️ I build open-source tools for wind energy and climate data, starting with [**PyVWF**](https://github.com/ellyess/PyVWF)
 - 🗺️ Looking for observed wind generation data? Try [**wind-generation-sources**](https://github.com/ellyess/wind-generation-sources)
-- 💬 Ask me about Python, reanalysis data, or energy system modelling
