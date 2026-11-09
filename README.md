@@ -1,6 +1,6 @@
 ### Hi, I am Ellyess Benmoufok
 
-[![Website](https://img.shields.io/badge/ellyess.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.ellyess.com)
+[![Website](https://img.shields.io/badge/website-ellyess.com-000000?style=for-the-badge)](https://www.ellyess.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ellyessbenmoufok/)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-0337-5690)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benmoufok.ellyess@gmail.com)
